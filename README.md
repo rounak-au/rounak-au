@@ -109,7 +109,7 @@ rounak = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/rounak-au/Rounak/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/rounak-au/rounak-au/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -117,7 +117,7 @@ rounak = {
 
 <div align="center">
 
-[![3D Contributions](https://raw.githubusercontent.com/rounak-au/Rounak/output-3d-contrib/profile-green-animate.svg)](https://github.com/rounak-au)
+[![3D Contributions](https://raw.githubusercontent.com/rounak-au/rounak-au/output-3d-contrib/profile-green-animate.svg)](https://github.com/rounak-au)
 
 </div>
 
