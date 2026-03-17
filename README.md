@@ -82,7 +82,7 @@ rounak = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/rounak-au/rounak-au/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/rounak-au/Rounak/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
