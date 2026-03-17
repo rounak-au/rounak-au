@@ -113,7 +113,7 @@
 
 <div align="center">
 
-[![3D Contributions](https://raw.githubusercontent.com/rounak-au/rounak-au/main/profile-3d-contrib/profile-green-animate.svg)](https://github.com/rounak-au)
+[![3D Contributions](https://raw.githubusercontent.com/rounak-au/rounak-au/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/rounak-au)
 
 </div>
 
