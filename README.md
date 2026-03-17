@@ -1,84 +1,111 @@
-# Rounak
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rounak+Sharma+%F0%9F%91%8B;FinTech+%7C+AI%2FML+%7C+Quant+Finance;Building+at+the+intersection+of+Tech+%26+Finance)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rounakau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rounakau)
-[![Email](https://img.shields.io/badge/Email-rounak.au%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rounak.au@gmail.com)
-[![ANU](https://img.shields.io/badge/ANU-Computer_Science_%26_Finance-BE0000?style=for-the-badge&logo=academia&logoColor=white)](https://anu.edu.au)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi+there,+I'm+Rounak+Sharma!;CS+%2B+Finance+%40+ANU+Canberra;FinTech+%7C+AI%2FML+%7C+Quant+Finance;Building+at+the+intersection+of+Tech+%26+Finance&font=Fira+Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=22)](https://github.com/rounak-au)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rounakau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rounakau)
+[![Email](https://img.shields.io/badge/Email-rounak.au%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rounak.au@gmail.com)
+[![ANU](https://img.shields.io/badge/ANU-CS+%26+Finance-BE0000?style=for-the-badge&logo=academia&logoColor=white)](https://anu.edu.au)
+[![Profile Views](https://komarev.com/ghpvc/?username=rounak-au&color=ff79c6&style=for-the-badge&label=Profile+Views)](https://github.com/rounak-au)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 👨‍💻 About Me
 
 ```python
 rounak = {
-    "name"       : "Rounak Sharma",
-    "education"  : "BSc Computer Science + Finance @ ANU, Canberra",
-    "currently"  : "AI/ML Internship",
-    "interests"  : ["FinTech", "Quantitative Finance", "AI/ML", "Data Science"],
-    "goal"       : "Building intelligent systems at the intersection of tech and finance",
-    "location"   : "Canberra, Australia 🇦🇺",
+    "name"      : "Rounak Sharma",
+    "university": "ANU Canberra — CS + Finance + Stats",
+    "currently" : "AI/ML Internship",
+    "interests" : ["FinTech", "Quant Finance",
+                   "AI/ML", "Data Science"],
+    "goal"      : "Building at the intersection
+                   of technology and finance",
+    "location"  : "Canberra, Australia 🇦🇺",
 }
 ```
 
----
+<br>
+
+- 🔭 Currently doing an **AI/ML Internship**
+- 🎓 Studying **CS + Finance + Statistics @ ANU**
+- 🌱 Building **FinTech & AI/ML projects**
+- 💬 Ask me about **Python, Java, FinTech, Data Science**
+- 📫 Reach me at **rounak.au@gmail.com**
+- ⚡ Fun fact: **Finance + Code = unlimited power 💸**
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 🛠️ Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,r,bash,latex)](https://skillicons.dev)
 
 **AI / ML / Data**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda)](https://skillicons.dev)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter,notion)](https://skillicons.dev)
 
----
+**Databases & Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=django,flask,mysql,postgres,docker)](https://skillicons.dev)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 🚀 Featured Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| 📈 [AI Stock Sentiment Analyzer](https://github.com/rounak-au) | Real-time stock sentiment analysis using NLP on financial news and social data | Python, NLP, FinTech |
-| 🍽️ [Restaurant Management System](https://github.com/rounak-au) | Full-stack system for order and inventory management | Java, SQL |
-| 📷 [Camber Smart Camera App](https://github.com/rounak-au) | AI-powered smart camera application with real-time detection | Python, AI/ML |
+|---------|-------------|-------|
+| 📈 [AI Stock Sentiment Analyzer](https://github.com/rounak-au) | Real-time stock sentiment analysis using NLP on financial news & social data | Python, NLP, FinTech |
+| 🍽️ [Restaurant Management System](https://github.com/rounak-au) | Full-stack order and inventory management system | Java, SQL |
+| 📷 [Camber Smart Camera App](https://github.com/rounak-au) | AI-powered smart camera with real-time object detection | Python, AI/ML |
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### 🏆 Experience & Achievements
+
+- 🤖 **AI/ML Intern** — building real-world AI solutions
+- 🎓 **BSc Computer Science + Finance + Statistics** @ ANU Canberra
+- 🏛️ **Former VP & Public Speaking Club Head @ Penn State** — grew club to 50+ members, raised $10K+
+- 🤖 **Nittany AI Society Member** @ Penn State
+- 🍱 **Volunteer Lead** @ Robinhood Army — weekly food drives
+- 🌍 **Campus Ambassador** @ Penn State
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-![Rounak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rounak-au&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=rounak-au&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rounak-au&layout=compact&theme=tokyonight&hide_border=true)
+<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rounak-au&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rounak-au&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -86,12 +113,30 @@ rounak = {
 
 </div>
 
----
+### 🌐 3D Contribution Calendar
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rounak-au&color=2F81F7&style=for-the-badge&label=Profile+Views)
+[![3D Contributions](https://raw.githubusercontent.com/rounak-au/Rounak/output-3d-contrib/profile-green-animate.svg)](https://github.com/rounak-au)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### ✍️ Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
 
 *"The goal is to turn data into information, and information into insight."*
+
+⭐ **If you find my work useful, drop a star!**
 
 </div>
